@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=Blessian's%20Archive&fontAlign=50&&animation=twinkling&reversal=true)
 
-# 📢 Introduce
-John 8:32
+</div>
+<div align="center">
 
 # 📚 Tech Stack
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
@@ -35,6 +35,11 @@ John 8:32
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Window](https://img.shields.io/badge/windows-0078D4.svg?style=for-the-badge&logo=windows&logoColor=#0078D4)](https://www.microsoft.com/ko-kr/windows)
 [![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/download)
+
+</div>
+
+# 📢 Introduce
+John 8:32
 
 # 📁 Project
 | Title | Dependency | Team | Period | Link |
