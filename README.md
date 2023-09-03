@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 
-# Pinned Projects
+# Projects
 | Title | Dependency | Team | Period | Link |
 | ------ | ------ | ------ | ------ | ------ |
 
