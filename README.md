@@ -39,15 +39,21 @@ John 8:32
 [![Window](https://img.shields.io/badge/windows-0078D4.svg?style=for-the-badge&logo=windows&logoColor=#0078D4)](https://www.microsoft.com/ko-kr/windows)
 [![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/download)
 
-# Wanted
-[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-
-
-
 # Project
 | Title | Dependency | Team | Period | Link |
 | ------ | ------ | ------ | ------ | ------ |
+| Awsome Project | Langchain,Llama2,FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 00.00.00 ~ 00.00.00 | Repo]([https://github.com/haeniKim/ai-project-team4](https://github.com/Blessian/chatpdf) |
+| Awsome Project | Langchain,Llama2,FastAPI | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ 00.00.00 | Repo]([https://github.com/haeniKim/ai-project-team4](https://github.com/Blessian/chatpdf) |
+| Awsome Project | Langchain,Llama2,FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 00.00.00 ~ 00.00.00 | Repo]([https://github.com/haeniKim/ai-project-team4](https://github.com/Blessian/chatpdf) |
+| Awsome Project | Langchain,Llama2,FastAPI | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ 00.00.001 | Repo]([https://github.com/haeniKim/ai-project-team4](https://github.com/Blessian/chatpdf) |
+| Awsome Project | Langchain,Llama2,FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 00.00.00 ~ 00.00.00 | Repo]([https://github.com/haeniKim/ai-project-team4](https://github.com/Blessian/chatpdf) |
+| Awsome Project | Langchain,Llama2,FastAPI | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ 00.00.00 | Repo]([https://github.com/haeniKim/ai-project-team4](https://github.com/Blessian/chatpdf) |
+| Awsome Project | Langchain,Llama2,FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 00.00.00 ~ 00.00.00 | Repo]([https://github.com/haeniKim/ai-project-team4](https://github.com/Blessian/chatpdf) |
+| Awsome Project | Langchain,Llama2,FastAPI | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ 00.00.00 | Repo]([https://github.com/haeniKim/ai-project-team4](https://github.com/Blessian/chatpdf) |
+
+# Wanted
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 # Contact to
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-seunghyun-lee/)
