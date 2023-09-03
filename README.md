@@ -16,6 +16,9 @@ Here are some ideas to get you started:
   
 [![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=Blessian's%20Archive&fontAlign=50&&animation=twinkling&reversal=true)]()
 
+# Introduce
+- John 8:32
+
 # Summary
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blessian&layout=compact&theme=dark)]()
 
