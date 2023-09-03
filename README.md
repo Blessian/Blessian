@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 | Awsome Project | Langchain,Llama2,FastAPI | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
 
 # ⛺ Tech Blog
-[![githubpages](https://img.shields.io/badge/githubpages-222222.svg?style=for-the-badge&logo=githubpages&logoColor=#222222)](https://www.google.com/)
+[![githubpages](https://img.shields.io/badge/githubpages-222222.svg?style=for-the-badge&logo=githubpages&logoColor=#222222)](https://blessian.github.io/)
 
 # 🚀 Wanted
 - [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
