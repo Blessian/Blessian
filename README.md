@@ -39,7 +39,11 @@ Here are some ideas to get you started:
 </div>
 
 # 📢 Introduce
-John 8:32
+- 1
+- 2
+- 3
+- 4
+- 5
 
 # 📁 Project
 | Title | Dependency | Team | Period | Link |
