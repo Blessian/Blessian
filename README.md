@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 John 8:32
 
 # Summary
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blessian&layout=compact&theme=dark)](https://github.com/Blessian?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blessian&layout=compact&theme=dark)](https://github.com/Blessian?tab=repositories&q=&type=&language=&sort=)
 
 # Tech Blog
 [![githubpages](https://img.shields.io/badge/githubpages-222222.svg?style=for-the-badge&logo=githubpages&logoColor=#222222)](https://www.google.com/)
