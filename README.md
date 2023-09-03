@@ -55,6 +55,8 @@ John 8:32
 | Awsome Project | Langchain,Llama2,FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
 | Awsome Project | Langchain,Llama2,FastAPI | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
 
+<div align="center">
+
 # ⛺ Tech Blog
 [![githubpages](https://img.shields.io/badge/githubpages-222222.svg?style=for-the-badge&logo=githubpages&logoColor=#222222)](https://www.google.com/)
 
@@ -69,3 +71,5 @@ John 8:32
 [![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)]()
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&fontAlign=50&&animation=twinkling&reversal=true)]()
+
+</div>
