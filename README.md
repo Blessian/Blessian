@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 <div align="center">
 
 # Summary
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blessian&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blessian&layout=compact&theme=dark)
 
 # Tech Blog
-![githubpages](https://img.shields.io/badge/githubpages-222222.svg?style=for-the-badge&logo=githubpages&logoColor=#222222&link=https://www.google.com)
+![githubpages](https://img.shields.io/badge/githubpages-222222.svg?style=for-the-badge&logo=githubpages&logoColor=#222222)
 
 # Tech Stack
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
