@@ -67,6 +67,7 @@ John 8:32
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)]()
 
+<div align="center">
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&fontAlign=50&&animation=twinkling&reversal=true)
-
+</div>
 
