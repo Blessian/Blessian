@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 # Introduce
 John 8:32
 
-# Summary
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blessian&layout=compact&theme=dark&lang_count=10&exclude_repo=portrait-segmentation-android)]()
-
 # Tech Blog
 [![githubpages](https://img.shields.io/badge/githubpages-222222.svg?style=for-the-badge&logo=githubpages&logoColor=#222222)](https://www.google.com/)
 
