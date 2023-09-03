@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 John 8:32
 
 # Summary
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blessian&exclude_repo=portrait-segmentation-android&layout=compact&theme=dark)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blessian&layout=compact&theme=dark)]()
 
 # Tech Blog
 [![githubpages](https://img.shields.io/badge/githubpages-222222.svg?style=for-the-badge&logo=githubpages&logoColor=#222222)](https://www.google.com/)
