@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=Blessian's%20Archive&fontAlign=50&&animation=twinkling&reversal=true)
 
 # 📢 Introduce
@@ -64,4 +63,3 @@ John 8:32
 [![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)]()
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&fontAlign=50&&animation=twinkling&reversal=true)]()
-</div>
