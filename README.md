@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 # 📁 Project
 | Title | Dependency | Team | Period | Description | Link |
-| ------ | ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | Awsome Project | Langchain,Llama2,FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 00.00.00 ~ 00.00.00 | S | [Repo](https://github.com/Blessian/predict_dog_adoption) |
 | predict_dog_adoption
  | Langchain,Llama2,FastAPI | ![Solo](https://img.shields.io/badge/Solo-blue) | 23.06.15 ~ 23.06.21 | | [Repo](https://github.com/Blessian/chatpdf) |
