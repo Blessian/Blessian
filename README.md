@@ -49,18 +49,19 @@ Here are some ideas to get you started:
 - 5
 
 # 📁 Project
-| Title | Dependency | Team | Period | Link |
+| Title | Dependency | Team | Period | Description | Link |
 | ------ | ------ | ------ | ------ | ------ |
-| Awsome Project | Langchain,Llama2,FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/predict_dog_adoption) |
-| Awsome Project | Langchain,Llama2,FastAPI | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
-| Awsome Project | Langchain,Llama2,FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
-| Awsome Project | Langchain,Llama2,FastAPI | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
-| Awsome Project | Langchain,Llama2,FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
-| Awsome Project | Langchain,Llama2,FastAPI | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
-| Awsome Project | Langchain,Llama2,FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
-| Awsome Project | Langchain,Llama2,FastAPI | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
-| Awsome Project | Langchain,Llama2,FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
-| Awsome Project | Langchain,Llama2,FastAPI | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
+| Awsome Project | Langchain,Llama2,FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 00.00.00 ~ 00.00.00 | | [Repo](https://github.com/Blessian/predict_dog_adoption) |
+| predict_dog_adoption
+ | Langchain,Llama2,FastAPI | ![Solo](https://img.shields.io/badge/Solo-blue) | 23.06.15 ~ 23.06.21 | | [Repo](https://github.com/Blessian/chatpdf) |
+| Awsome Project | Langchain,Llama2,FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 00.00.00 ~ 00.00.00 | | [Repo](https://github.com/Blessian/chatpdf) |
+| Awsome Project | Langchain,Llama2,FastAPI | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ 00.00.00 | | [Repo](https://github.com/Blessian/chatpdf) |
+| Awsome Project | Langchain,Llama2,FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 00.00.00 ~ 00.00.00 | | [Repo](https://github.com/Blessian/chatpdf) |
+| Awsome Project | Langchain,Llama2,FastAPI | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ 00.00.00 | | [Repo](https://github.com/Blessian/chatpdf) |
+| Awsome Project | Langchain,Llama2,FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 00.00.00 ~ 00.00.00 | | [Repo](https://github.com/Blessian/chatpdf) |
+| Awsome Project | Langchain,Llama2,FastAPI | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ 00.00.00 | | [Repo](https://github.com/Blessian/chatpdf) |
+| Awsome Project | Langchain,Llama2,FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 00.00.00 ~ 00.00.00 | | [Repo](https://github.com/Blessian/chatpdf) |
+| Awsome Project | Langchain,Llama2,FastAPI | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ 00.00.00 | | [Repo](https://github.com/Blessian/chatpdf) |
 
 # ⛺ Tech Blog
 [![gitbook](https://www.vectorlogo.zone/logos/gitbook/gitbook-ar21.svg?style=for-the-badge&logo=githubpages&logoColor=#222222)](https://blessians-archive.gitbook.io/blessians-page/)
