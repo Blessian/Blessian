@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 # 📁 Project
 | Title | Dependency | Team | Period | Link |
 | ------ | ------ | ------ | ------ | ------ |
-| Awsome Project | Langchain,Llama2,FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
+| Awsome Project | Langchain,Llama2,FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/predict_dog_adoption) |
 | Awsome Project | Langchain,Llama2,FastAPI | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
 | Awsome Project | Langchain,Llama2,FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
 | Awsome Project | Langchain,Llama2,FastAPI | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
