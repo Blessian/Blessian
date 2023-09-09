@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 | Description | Tech | Team | Period | Link |
 | ------ | ------ | ------ | ------ | ------ |
 | 유기견 보호소 데이터를 활용한 입양 확률 예측 | Lazypredict, AutoViz, Optuna, LGBM | ![Team](https://img.shields.io/badge/Team-red) | 23.06.15 ~ 23.06.21 | [Repo](https://github.com/Blessian/predict_dog_adoption) |
-| 웹툰 그림체 수집 및 분류를 통한 표절 감지 | mobilenet_v2, Selenium | ![Solo](https://img.shields.io/badge/Solo-blue) | 23.07.03 ~ 23.07.05 | [Repo]([https://github.com/Blessian/chatpdf](https://github.com/Blessian/find_plagiarism_webtoon)) |
+| 웹툰 그림체 수집 및 분류를 통한 표절 감지 | mobilenet_v2, Selenium | ![Solo](https://img.shields.io/badge/Solo-blue) | 23.07.03 ~ 23.07.05 | [Repo](https://github.com/Blessian/find_plagiarism_webtoon) |
 | Awsome Project | Langchain,Llama2,FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
 | Awsome Project | Langchain,Llama2,FastAPI | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
 | Awsome Project | Langchain,Llama2,FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
