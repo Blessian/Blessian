@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=Blessian's%20Archive&fontAlign=50&&animation=twinkling&reversal=true)
 
 
+
 # 📚 Tech Stack
 
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
@@ -43,6 +44,7 @@ Here are some ideas to get you started:
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/ko/)
 
 
+
 # 👥 Cowork Tool
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -53,11 +55,14 @@ Here are some ideas to get you started:
 
 </div>
 
+
+
 # 📢 Introduce
 AI Engineer who wants to create an "Awesome New World"!
 - Interested in LLM
 - Interested in Generative AI
 - Interested in Multi Modal
+
 
 
 # 📁 Project
@@ -69,17 +74,25 @@ AI Engineer who wants to create an "Awesome New World"!
 | 유기견 보호소 데이터를 활용한 입양 확률 예측 | Lazypredict, AutoViz, Optuna, LGBM | ![Team](https://img.shields.io/badge/Team-red) | 23.06.15 ~ 23.06.21 | [Repo](https://github.com/Blessian/predict_dog_adoption) |
 | Awsome Project | some, awesome, framework | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ 00.00.00 | [Repo]() |
 
+
+
 # ⛺ Tech Blog
 [![gitbook](https://www.vectorlogo.zone/logos/gitbook/gitbook-ar21.svg?style=for-the-badge&logo=githubpages&logoColor=#222222)](https://blessians-archive.gitbook.io/blessians-page/)
+
+
 
 # 🚀 Want to
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
+
+
 # 📞 Contact to
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-seunghyun-lee/)
 
 [![GMail](https://img.shields.io/badge/blessian.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:blessian.dev@gmail.com)](mailto:blessian.dev@gmail.com)
+
+
 
 <div align="center">
 
