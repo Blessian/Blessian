@@ -59,12 +59,7 @@ Here are some ideas to get you started:
 | 웹툰 그림체 수집 및 분류를 통한 표절 감지 | mobilenet_v2, Selenium | ![Solo](https://img.shields.io/badge/Solo-blue) | 23.07.03 ~ 23.07.05 | [Repo](https://github.com/Blessian/find_plagiarism_webtoon) |
 | KoGPT2를 미세조정하여 구현한 일상대화를 위한 챗봇 | KoGPT2, Flask | ![Team](https://img.shields.io/badge/Team-red) | 23.07.17 ~ 23.07.21 | [Repo](https://github.com/Blessian/chatbot_whatsup) |
 | 시크릿쥬쥬 캐릭터 설정을 적용한 유아용 챗봇 | Langchain, OpenAI(GPT-4), KoGPT2, KoBART, FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 23.08.01 ~ 23.08.18 | [Repo](https://github.com/Blessian/juju_chatbot) |
-| Awsome Project | Langchain,Llama2,FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
-| Awsome Project | Langchain,Llama2,FastAPI | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
-| Awsome Project | Langchain,Llama2,FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 00.00.00 ~ 00.00.00 |  [Repo](https://github.com/Blessian/chatpdf) |
-| Awsome Project | Langchain,Llama2,FastAPI | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
-| Awsome Project | Langchain,Llama2,FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
-| Awsome Project | Langchain,Llama2,FastAPI | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
+| Awsome Project | something, awesome, framework | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
 
 # 📢 Introduce
 - 1
