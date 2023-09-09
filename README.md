@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 </div>
 
 # 📢 Introduce
-Artificial intelligence engineer who wants to create an awesome new world
+AI Engineer Who wants to Create an Awesome New World!
 - Interested in LLM
 - Interested in Generative AI
 
