@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 # 📞 Contact to
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-seunghyun-lee/)
 
-[![blessian.dev@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:blessian.dev@gmail.com)](mailto:blessian.dev@gmail.com)
+[![blessian.dev@gmail.com](https://img.shields.io/badge/blessian.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:blessian.dev@gmail.com)](mailto:blessian.dev@gmail.com)
 
 <div align="center">
 
