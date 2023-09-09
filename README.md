@@ -46,13 +46,6 @@ Here are some ideas to get you started:
 
 </div>
 
-# 📢 Introduce
-- 1
-- 2
-- 3
-- 4
-- 5
-
 # 📁 Project
 | Description | Tech | Team | Period | Link |
 | ------ | ------ | ------ | ------ | ------ |
@@ -66,6 +59,13 @@ Here are some ideas to get you started:
 | Awsome Project | Langchain,Llama2,FastAPI | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
 | Awsome Project | Langchain,Llama2,FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
 | Awsome Project | Langchain,Llama2,FastAPI | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
+
+# 📢 Introduce
+- 1
+- 2
+- 3
+- 4
+- 5
 
 <div align="center">
 
