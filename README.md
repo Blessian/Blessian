@@ -79,7 +79,6 @@ Here are some ideas to get you started:
 # 📞 Contact to
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-seunghyun-lee/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](blessian.dev@gmail.com)
-[![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)]()
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&fontAlign=50&&animation=twinkling&reversal=true)]()
 
