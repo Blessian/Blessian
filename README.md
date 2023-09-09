@@ -67,6 +67,8 @@ Here are some ideas to get you started:
 | Awsome Project | Langchain,Llama2,FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
 | Awsome Project | Langchain,Llama2,FastAPI | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ 00.00.00 | [Repo](https://github.com/Blessian/chatpdf) |
 
+<div align="center">
+
 # ⛺ Tech Blog
 [![gitbook](https://www.vectorlogo.zone/logos/gitbook/gitbook-ar21.svg?style=for-the-badge&logo=githubpages&logoColor=#222222)](https://blessians-archive.gitbook.io/blessians-page/)
 
@@ -78,8 +80,6 @@ Here are some ideas to get you started:
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-seunghyun-lee/)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](blessian.dev@gmail.com)
 - [![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)]()
-
-<div align="center">
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&fontAlign=50&&animation=twinkling&reversal=true)]()
 
