@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=Blessian's%20Archive&fontAlign=50&&animation=twinkling&reversal=true)
 
+</div>
+
 # 📚 Tech Stack
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/ko/)
@@ -43,8 +45,6 @@ Here are some ideas to get you started:
 [![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)]()
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
-
 # 📁 Project
 | Description | Tech | Team | Period | Link |
 | ------ | ------ | ------ | ------ | ------ |
@@ -66,8 +66,6 @@ Here are some ideas to get you started:
 - 4
 - 5
 
-<div align="center">
-
 # ⛺ Tech Blog
 [![gitbook](https://www.vectorlogo.zone/logos/gitbook/gitbook-ar21.svg?style=for-the-badge&logo=githubpages&logoColor=#222222)](https://blessians-archive.gitbook.io/blessians-page/)
 
@@ -78,6 +76,8 @@ Here are some ideas to get you started:
 # 📞 Contact to
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-seunghyun-lee/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:blessian.dev@gmail.com)](mailto:blessian.dev@gmail.com)
+
+<div align="center">
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&fontAlign=50&&animation=twinkling&reversal=true)]()
 
