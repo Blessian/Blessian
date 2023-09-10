@@ -89,10 +89,7 @@ AI Engineer who wants to create an "Awesome New World"!
 
 
 # 📞 Contact to
-
-<div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="blessian" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/blessian?trk=profile-badge">SeungHyun Lee</a></div>
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-seunghyun-lee/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blessian/)
 
 [![GMail](https://img.shields.io/badge/blessian.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:blessian.dev@gmail.com)](mailto:blessian.dev@gmail.com)
 
