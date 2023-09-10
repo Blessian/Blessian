@@ -78,7 +78,7 @@ AI Engineer who wants to create an "Awesome New World"!
 
 
 # ⛺ Blog (Coming soon!)
-[![gitbook]("https://img.shields.io/badge/gitbook-%233884FF.svg?&style=for-the-badge&logo=gitbook&logoColor=white")](https://blessians-archive.gitbook.io/blessians-log/)
+[![gitbook](https://img.shields.io/badge/gitbook-%233884FF.svg?&style=for-the-badge&logo=gitbook&logoColor=white)](https://blessians-archive.gitbook.io/blessians-log/)
 
 
 
