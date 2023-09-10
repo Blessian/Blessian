@@ -78,7 +78,7 @@ AI Engineer who wants to create an "Awesome New World"!
 
 
 # ⛺ Blog (Coming soon!)
-[![gitbook](https://app.gitbook.com/invite/GnsRqINYQZeRAE563q7i/cIBsJfzh6aZMwA4dFL3F)
+[![gitbook]("https://img.shields.io/badge/gitbook-%233884FF.svg?&style=for-the-badge&logo=gitbook&logoColor=white")](https://app.gitbook.com/invite/GnsRqINYQZeRAE563q7i/cIBsJfzh6aZMwA4dFL3F)
 
 
 
