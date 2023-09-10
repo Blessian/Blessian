@@ -76,7 +76,7 @@ AI Engineer who wants to create an "Awesome New World"!
 
 
 
-# ⛺ Tech Blog
+# ⛺ Blog
 [![gitbook](https://www.vectorlogo.zone/logos/gitbook/gitbook-ar21.svg?style=for-the-badge&logo=githubpages&logoColor=#222222)](https://blessians-archive.gitbook.io/blessians-page/)
 
 
