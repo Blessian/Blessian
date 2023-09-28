@@ -60,10 +60,9 @@ Here are some ideas to get you started:
 
 
 # 📢 Introduce
-AI Engineer who wants to create an "Awesome New World"!
+AI Engineer
 - Interested in LLM
 - Interested in Generative AI
-- Interested in Multi Modal
 
 
 
