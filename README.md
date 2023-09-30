@@ -71,7 +71,7 @@ AI Engineer
 | Description | Tech | Team | Period | Link |
 | ------ | ------ | ------ | ------ | ------ |
 | 메타인지 능력 향상을 위한 글쓰기 플랫폼 | Langchain, OpenAI(GPT-4), FastAPI, SQLite | ![Team](https://img.shields.io/badge/Team-red) | 23.08.28 ~ 23.09.27 | [Repo](https://github.com/SEP-proj) |
-| 시크릿쥬쥬 캐릭터 설정을 적용한 유아용 챗봇 | Langchain, OpenAI(GPT-4), KoGPT2, KoBART, FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 23.08.01 ~ 23.08.18 | [Repo](https://github.com/Blessian/JUJUbot) |
+| 시크릿쥬쥬를 연기하는 유아용 챗봇 | Langchain, OpenAI(GPT-4), KoGPT2, KoBART, FastAPI | ![Team](https://img.shields.io/badge/Team-red) | 23.08.01 ~ 23.08.18 | [Repo](https://github.com/Blessian/JUJUbot) |
 | KoGPT2를 미세조정한 일상대화 챗봇 | KoGPT2, Flask | ![Team](https://img.shields.io/badge/Team-red) | 23.07.17 ~ 23.07.21 | [Repo](https://github.com/Blessian/chatbot_whatsup) |
 | 웹툰 그림체 수집 및 분류를 통한 표절 감지 | mobilenet_v2, Selenium | ![Solo](https://img.shields.io/badge/Solo-blue) | 23.07.03 ~ 23.07.05 | [Repo](https://github.com/Blessian/find_plagiarism_webtoon) |
 | 유기견 보호소 데이터를 활용한 입양 확률 예측 | Lazypredict, AutoViz, Optuna, LGBM | ![Team](https://img.shields.io/badge/Team-red) | 23.06.15 ~ 23.06.21 | [Repo](https://github.com/Blessian/predict_dog_adoption) |
