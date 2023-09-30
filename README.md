@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![Meta](https://img.shields.io/badge/meta-0467DF?style=for-the-badge&logo=meta&logoColor=white)](https://ai.meta.com/)
 [![Openai](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
-[![Bard](https://img.shields.io/badge/googlebard-#886FBF?style=for-the-badge&logo=googlebard&logoColor=white)](https://openai.com/)
+[![Bard](https://img.shields.io/badge/googlebard-#886FBF?style=for-the-badge&logo=GoogleBard&logoColor=white)](https://openai.com/)
 [![Langchain](https://img.shields.io/badge/%F0%9F%A6%9C%F0%9F%94%97langchain-fff?style=for-the-badge)](https://www.langchain.com/)
 
 [![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
