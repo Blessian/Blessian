@@ -88,7 +88,7 @@ year    112D4E
 | KoGPT2를 미세조정한 일상대화 챗봇 | KoGPT2, Flask | ![Team](https://img.shields.io/badge/4-Team-red) | ![Static Badge](https://img.shields.io/badge/1-week-DBE2EF) | [![Static Badge](https://img.shields.io/badge/Repo_Link-713ABE)](https://github.com/Blessian/chatbot_whatsup) |
 | 웹툰 그림체 수집 및 분류를 통한 표절 감지 | mobilenet_v2, Selenium | ![Solo](https://img.shields.io/badge/Solo-blue) | ![Static Badge](https://img.shields.io/badge/1-week-DBE2EF) | [![Static Badge](https://img.shields.io/badge/Repo_Link-713ABE)](https://github.com/Blessian/find_plagiarism_webtoon) |
 | 유기견 보호소 데이터를 활용한 입양 확률 예측 | Lazypredict, AutoViz, Optuna, LGBM | ![Team](https://img.shields.io/badge/3-Team-red) | ![Static Badge](https://img.shields.io/badge/1-week-DBE2EF) | [![Static Badge](https://img.shields.io/badge/Repo_Link-713ABE)](https://github.com/Blessian/predict_dog_adoption) |
-| Awsome Project | some, awesome, framework | ![Solo](https://img.shields.io/badge/Solo-blue) | ![Static Badge](https://img.shields.io/badge/0-day-F9F7F7) | [![Static Badge](https://img.shields.io/badge/Repo_Link-713ABE)]() |
+| Awsome Project | some, awesome, framework | ![Solo](https://img.shields.io/badge/Solo-blue) | ![Static Badge](https://img.shields.io/badge/0-day-F9F7F7) | [![Static Badge](https://img.shields.io/badge/Empty_Link-713ABE)]() |
 
 
 <!--
