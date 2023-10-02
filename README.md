@@ -72,6 +72,21 @@ AI Engineer
 
 
 
+<!--
+# Skill
+사용 가능한 기술들의 간단한 가장 최신 예시들 (GIF, Visulized chart)
+- crawling
+- image classifiction
+- object dtection
+- tracking
+- segmentation
+- NLP(LLM)
+- RestfulAPI
+- etc...
+-->
+
+
+
 # 📁 Project
 <!-- 
 Period colors
