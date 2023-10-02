@@ -75,7 +75,7 @@ AI Engineer
 # 📁 Project
 | Description | Tech | Team | Period | Link |
 | ------ | ------ | ------ | ------ | ------ |
-| 메타인지 능력 향상을 위한 글쓰기 플랫폼 | Langchain, OpenAI(GPT-4), FastAPI, SQLite | ![Team](https://img.shields.io/badge/Team-red) | 23.08.28 ~ <br>23.09.27 | [Repo1](https://github.com/SEP-proj)<br>[Repo2](https://github.com/Blessian/MetaTraining_AI/tree/main) |
+| 메타인지 능력 향상을 위한 글쓰기 플랫폼 | Langchain, OpenAI(GPT-4), FastAPI, SQLite | ![Team](https://img.shields.io/badge/Team-red) | 23.08.28 ~ <br>23.09.27 | [All](https://github.com/SEP-proj)<br>[My](https://github.com/Blessian/MetaTraining_AI/tree/main) |
 | 시크릿쥬쥬를 연기하는 유아용 챗봇 | Langchain, OpenAI(GPT-4), KoGPT2, KoBART, Flask | ![Team](https://img.shields.io/badge/Team-red) | 23.08.01 ~ <br>23.08.18 | [Repo](https://github.com/Blessian/JUJUbot) |
 | KoGPT2를 미세조정한 일상대화 챗봇 | KoGPT2, Flask | ![Team](https://img.shields.io/badge/Team-red) | 23.07.17 ~ <br>23.07.21 | [Repo](https://github.com/Blessian/chatbot_whatsup) |
 | 웹툰 그림체 수집 및 분류를 통한 표절 감지 | mobilenet_v2, Selenium | ![Solo](https://img.shields.io/badge/Solo-blue) | 23.07.03 ~ <br>23.07.05 | [Repo](https://github.com/Blessian/find_plagiarism_webtoon) |
