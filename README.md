@@ -83,10 +83,10 @@ AI Engineer
 | Awsome Project | some, awesome, framework | ![Solo](https://img.shields.io/badge/Solo-blue) | 00.00.00 ~ <br>00.00.00 | [Repo]() |
 
 
-
+<!--
 # ⛺ Blog (Coming soon!)
 [![gitbook](https://img.shields.io/badge/gitbook-%233884FF.svg?&style=for-the-badge&logo=gitbook&logoColor=white)](https://blessians-archive.gitbook.io/blessians-log/)
-
+-->
 
 
 # 🚀 Want to
