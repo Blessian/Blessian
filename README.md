@@ -83,7 +83,7 @@ year    112D4E
 
 | Description | Tech | Team Size | Period | Repository |
 | ------ | ------ | ------ | ------ | ------ |
-| 메타인지 능력 향상을 위한 글쓰기 플랫폼 | Langchain, OpenAI(GPT-4), FastAPI, SQLite | ![Team](https://img.shields.io/badge/9-Team-red) | ![Static Badge](https://img.shields.io/badge/1-month-3F72AF) | [![Static Badge](https://img.shields.io/badge/Org_Repo-713ABE)](https://github.com/SEP-proj)<br>[AI Branch](https://github.com/Blessian/MetaTraining_AI/tree/main) |
+| 메타인지 능력 향상을 위한 글쓰기 플랫폼 | Langchain, OpenAI(GPT-4), FastAPI, SQLite | ![Team](https://img.shields.io/badge/9-Team-red) | ![Static Badge](https://img.shields.io/badge/1-month-3F72AF) | [![Static Badge](https://img.shields.io/badge/Organiztion-713ABE)](https://github.com/SEP-proj)<br>[![Static Badge](https://img.shields.io/badge/AI Server-713ABE)](https://github.com/Blessian/MetaTraining_AI/tree/main) |
 | 시크릿쥬쥬를 연기하는 유아용 챗봇 | Langchain, OpenAI(GPT-4), KoGPT2, KoBART, Flask | ![Team](https://img.shields.io/badge/4-Team-red) | ![Static Badge](https://img.shields.io/badge/1-month-3F72AF) | [Repo](https://github.com/Blessian/JUJUbot) |
 | KoGPT2를 미세조정한 일상대화 챗봇 | KoGPT2, Flask | ![Team](https://img.shields.io/badge/4-Team-red) | ![Static Badge](https://img.shields.io/badge/1-week-DBE2EF) | [Repo](https://github.com/Blessian/chatbot_whatsup) |
 | 웹툰 그림체 수집 및 분류를 통한 표절 감지 | mobilenet_v2, Selenium | ![Solo](https://img.shields.io/badge/Solo-blue) | ![Static Badge](https://img.shields.io/badge/1-week-DBE2EF) | [Repo](https://github.com/Blessian/find_plagiarism_webtoon) |
