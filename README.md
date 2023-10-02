@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=Blessian's%20Archive&fontAlign=50&&animation=twinkling&reversal=true)
 
 
-
+<br>
 # 📚 Tech Stack
 
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/ko/)
 
 
-<br><br>
+<br>
 # 👥 Cowork Tool
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 </div>
 
 
-
+<br>
 # 📢 Introduce
 AI Engineer
 - Interested in LLM
@@ -86,7 +86,7 @@ AI Engineer
 -->
 
 
-<br><br>
+<br>
 # 📁 Project
 <!-- 
 Period colors
@@ -112,19 +112,19 @@ year    112D4E
 -->
 
 
-<br><br>
+<br>
 # 🚀 Want to
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 
-<br><br>
+<br>
 # 📞 Contact to
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blessian/)
 
 [![GMail](https://img.shields.io/badge/blessian.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:blessian.dev@gmail.com)](mailto:blessian.dev@gmail.com)
 
 
-<br><br>
+<br>
 <div align="center">
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&fontAlign=50&&animation=twinkling&reversal=true)]()
