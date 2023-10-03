@@ -125,7 +125,6 @@ year    06283D
 # 🚀 Interest in
 ![Static Badge](https://img.shields.io/badge/Large_Language_Model-gray?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Generative_Agent-gray?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Game_NPC-gray?style=for-the-badge)
 
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
