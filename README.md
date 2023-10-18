@@ -128,7 +128,7 @@ year    06283D
 ![Static Badge](https://img.shields.io/badge/Large_Language_Model-gray?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Generative_Agent-gray?style=for-the-badge)
 
-[![Mojo](https://img.shields.io/badge/%F0%9FU%2B1F525mojo-fff?style=for-the-badge)](https://www.modular.com/mojo)
+[![Mojo](https://img.shields.io/badge/&#128293mojo-fff?style=for-the-badge)](https://www.modular.com/mojo)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 
