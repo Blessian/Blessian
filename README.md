@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge)](https://fastapi.tiangolo.com/ko/)
+[![Langchain](https://img.shields.io/badge/%F0%9F%A6%9C%F0%9F%94%97%20langchain-fff?style=for-the-badge)](https://www.langchain.com/)
 
 <!-- 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/ko/)
@@ -30,7 +31,6 @@ Here are some ideas to get you started:
 [![Meta](https://img.shields.io/badge/meta-0467DF?style=for-the-badge&logo=meta&logoColor=white)](https://ai.meta.com/)
 [![Openai](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 [![Google Bard Badge](https://img.shields.io/badge/Google%20Bard-886FBF?logo=googlebard&logoColor=fff&style=for-the-badge)](https://bard.google.com/chat?hl=ko)
-[![Langchain](https://img.shields.io/badge/%F0%9F%A6%9C%F0%9F%94%97%20langchain-fff?style=for-the-badge)](https://www.langchain.com/)
 [![OpenCV Badge](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff&style=for-the-badge)](https://opencv.org/)
 [![YOLO Badge](https://img.shields.io/badge/YOLO-0FF?logo=yolo&logoColor=000&style=for-the-badge)](https://docs.ultralytics.com/)
 [![Weights & Biases Badge](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?logo=weightsandbiases&logoColor=000&style=for-the-badge)](https://wandb.ai/site)
