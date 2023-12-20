@@ -25,6 +25,11 @@ Here are some ideas to get you started:
 [![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge)](https://fastapi.tiangolo.com/ko/)
 [![Langchain](https://img.shields.io/badge/%F0%9F%A6%9C%F0%9F%94%97%20langchain-fff?style=for-the-badge)](https://www.langchain.com/)
 [![Llama Index](https://img.shields.io/badge/%F0%9F%A6%99%20llama_index-fff?style=for-the-badge)](https://www.llamaindex.ai/)
+[![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/download)
+[![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)]()
+[![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/ko/)
+[![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge)](https://azure.microsoft.com/ko-kr)
 
 <!-- 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/ko/)
@@ -43,11 +48,6 @@ Here are some ideas to get you started:
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=for-the-badge)](https://jupyter.org/)
 [![Window](https://img.shields.io/badge/windows-0078D4.svg?style=for-the-badge&logo=windows&logoColor=#0078D4)](https://www.microsoft.com/ko-kr/windows)
-[![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/download)
-[![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)]()
-[![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/ko/)
-[![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge)](https://azure.microsoft.com/ko-kr)
 -->
 
 <br>
@@ -100,7 +100,7 @@ month   1363DF
 year    06283D
 -->
 
-| Description | Tech | Team Size | Period | Repository | Award |
+| Description | Tech | Team Size | Period | Repository | |
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | 안전하고 사이좋은 가족을 위한 지도기반 메타버스 SNS | Langchain, OpenAI(GPT-4-turbo, GPT-3.5-turbo), FastAPI, Selenium, MongoDB | ![Team](https://img.shields.io/badge/7-Team-CD1818) | ![Static Badge](https://img.shields.io/badge/2-month-1363DF) | [![Static Badge](https://img.shields.io/badge/Organiztion-gray)](https://github.com/WooriIsland)<br>[![Static Badge](https://img.shields.io/badge/AI_Server-My-713ABE)](https://github.com/Blessian/MetaTraining_AI/tree/main) | 🏆 |
 | 메타인지 능력 향상을 위한 글쓰기 플랫폼 | Langchain, OpenAI(GPT-4), FastAPI, SQLite, BeautifulSoup | ![Team](https://img.shields.io/badge/9-Team-CD1818) | ![Static Badge](https://img.shields.io/badge/1-month-1363DF) | [![Static Badge](https://img.shields.io/badge/Organiztion-gray)](https://github.com/SEP-proj)<br>[![Static Badge](https://img.shields.io/badge/AI_Server-My-713ABE)](https://github.com/Blessian/MetaTraining_AI/tree/main) | |
