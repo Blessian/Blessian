@@ -127,10 +127,8 @@ year    06283D
 
 <br>
 
-# 📞 Contact to
+# 📞 SNS
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blessian/)
-
-[![GMail](https://img.shields.io/badge/blessian.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:blessian.dev@gmail.com)](mailto:blessian.dev@gmail.com)
 
 <br>
 
