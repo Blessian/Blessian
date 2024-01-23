@@ -117,6 +117,7 @@ year    06283D
 [![gitbook](https://img.shields.io/badge/gitbook-%233884FF.svg?&style=for-the-badge&logo=gitbook&logoColor=white)](https://blessians-archive.gitbook.io/blessians-log/)
 -->
 
+<!--
 <br>
 
 # 🚀 Interest in
@@ -124,6 +125,7 @@ year    06283D
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 <br>
+-->
 
 # 💭 SNS
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blessian/)
