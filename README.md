@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 # 📚 Tech Stack
 
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![PyTorch Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge)](https://fastapi.tiangolo.com/ko/)
 [![Langchain Badge](https://img.shields.io/badge/%F0%9F%A6%9C%F0%9F%94%97%20langchain-fff?style=for-the-badge)](https://www.langchain.com/)
@@ -122,7 +123,6 @@ year    06283D
 
 # 🚀 Interest in
 [![Mojo](https://img.shields.io/badge/%F0%9F%94%A5%20mojo-fff?style=for-the-badge)](https://www.modular.com/mojo)
-[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 <br>
 -->
