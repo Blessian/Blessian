@@ -101,7 +101,6 @@ month   1363DF
 year    06283D
 -->
 
-<!--
 | Description | Tech | Team Size | Period | Repository | |
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | 안전하고 사이좋은 가족을 위한 지도기반 메타버스 SNS (우리가족섬) | Langchain, OpenAI(GPT-4-turbo, GPT-3.5-turbo), FastAPI, Selenium, MongoDB | ![Team](https://img.shields.io/badge/7-Team-CD1818) | ![Static Badge](https://img.shields.io/badge/2-month-1363DF) | [![Static Badge](https://img.shields.io/badge/Organiztion-gray)](https://github.com/WooriIsland/ai)<br>[![Static Badge](https://img.shields.io/badge/AI_Server-My-713ABE)](https://github.com/Blessian/wooriisland) | [🏆](https://mtvs.kr/user/customer/notice/view?bbsCd=BBS_00001&bbscCd=BBSC_00968) |
@@ -111,6 +110,7 @@ year    06283D
 | 웹툰 그림체 수집 및 분류를 통한 표절 감지 | mobilenet_v2, Selenium | ![Solo](https://img.shields.io/badge/Solo-DFF6FF) | ![Static Badge](https://img.shields.io/badge/1-week-47B5FF) | [![Static Badge](https://img.shields.io/badge/Repo_Link-713ABE)](https://github.com/Blessian/find_plagiarism_webtoon) | |
 | 유기견 보호소 데이터를 활용한 입양 확률 예측 | Lazypredict, AutoViz, Optuna, LGBM | ![Team](https://img.shields.io/badge/3-Team-CD1818) | ![Static Badge](https://img.shields.io/badge/1-week-47B5FF) | [![Static Badge](https://img.shields.io/badge/Repo_Link-713ABE)](https://github.com/Blessian/predict_dog_adoption) | |
 
+<!--
 | Awsome Project | some, awesome, framework | ![Solo](https://img.shields.io/badge/Solo-DFF6FF) | ![Static Badge](https://img.shields.io/badge/0-day-DFF6FF) | [![Static Badge](https://img.shields.io/badge/Empty_Link-713ABE)](https://github.com/Blessian) | |
 -->
 
