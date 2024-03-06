@@ -65,7 +65,6 @@ Here are some ideas to get you started:
 
 </div>
 
-
 <br>
 
 # 📢 Introduce
@@ -121,12 +120,14 @@ year    06283D
 
 <!--
 <br>
+-->
 
+<!--
 # 🚀 Interest in
 [![Mojo](https://img.shields.io/badge/%F0%9F%94%A5%20mojo-fff?style=for-the-badge)](https://www.modular.com/mojo)
+-->
 
 <br>
--->
 
 # 💭 SNS
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blessian/)
