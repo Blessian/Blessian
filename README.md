@@ -69,8 +69,7 @@ Here are some ideas to get you started:
 
 # 📢 Introduce
 AI Engineer
-- Interested in LLM
-- Interested in Generative AI
+- 
 
 <!--
 # Skill
