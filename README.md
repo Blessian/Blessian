@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=coffeescript&logoColor=white)](https://www.java.com/ko/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)]()
 <br>
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge)](https://fastapi.tiangolo.com/ko/)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=for-the-badge)](https://flask.palletsprojects.com/en/3.0.x/)
