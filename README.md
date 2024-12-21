@@ -33,11 +33,12 @@ Here are some ideas to get you started:
 [![PyTorch Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge)](https://fastapi.tiangolo.com/ko/)
 [![Flask Badge](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=for-the-badge)](https://flask.palletsprojects.com/en/3.0.x/)
+[![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+<br>
+[![BeautifulSoup](https://img.shields.io/badge/%F0%90%83%B8%20beautifulSoup-fff?style=for-the-badge)](https://www.crummy.com/software/BeautifulSoup/)
+[![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![Langchain Badge](https://img.shields.io/badge/%F0%9F%A6%9C%F0%9F%94%97%20langchain-fff?style=for-the-badge)](https://www.langchain.com/)
 [![Llama Index Badge](https://img.shields.io/badge/%F0%9F%A6%99%20llama_index-fff?style=for-the-badge)](https://www.llamaindex.ai/)
-[![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
-[![BeautifulSoup](https://img.shields.io/badge/%F0%90%83%B8%20beautifulSoup-fff?style=for-the-badge)](https://www.crummy.com/software/BeautifulSoup/)
-[![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 
 <!--
 [![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)]()
