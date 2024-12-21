@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 <br>
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge)](https://fastapi.tiangolo.com/ko/)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=for-the-badge)](https://flask.palletsprojects.com/en/3.0.x/)
+[![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge)](https://www.djangoproject.com/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge)](https://www.tensorflow.org/?hl=ko)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff&style=for-the-badge)](https://opencv.org/)
