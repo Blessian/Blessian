@@ -39,6 +39,9 @@ Here are some ideas to get you started:
 [![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![Langchain Badge](https://img.shields.io/badge/%F0%9F%A6%9C%F0%9F%94%97%20langchain-fff?style=for-the-badge)](https://www.langchain.com/)
 [![Llama Index Badge](https://img.shields.io/badge/%F0%9F%A6%99%20llama_index-fff?style=for-the-badge)](https://www.llamaindex.ai/)
+<br>
+[![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)]()
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)]()
 
 <!--
 [![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)]()
