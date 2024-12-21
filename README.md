@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
 <br>
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
-[![Mojo](https://img.shields.io/badge/%F0%9F%94%A5%20mojo-fff?style=for-the-badge)](https://www.modular.com/mojo)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white&style=for-the-badge)](https://www.rust-lang.org/)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)]()
+[![Mojo](https://img.shields.io/badge/%F0%9F%94%A5%20mojo-fff?style=for-the-badge)](https://www.modular.com/mojo)
 <br>
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge)](https://fastapi.tiangolo.com/ko/)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=for-the-badge)](https://flask.palletsprojects.com/en/3.0.x/)
