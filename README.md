@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
 <br>
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
-[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=coffeescript&logoColor=white)](https://www.java.com/ko/)
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white&style=for-the-badge)](https://www.rust-lang.org/)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=coffeescript&logoColor=white&style=for-the-badge)](https://www.java.com/ko/)
+[![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge)](https://kotlinlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)]()
 <br>
