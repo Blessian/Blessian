@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/ko/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 <br>
 [![Ubuntu Badge](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/download)
 [![AWS Badge](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/ko/)
@@ -30,24 +32,22 @@ Here are some ideas to get you started:
 <br>
 [![PyTorch Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge)](https://fastapi.tiangolo.com/ko/)
+[![Flask Badge](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=for-the-badge)](https://flask.palletsprojects.com/en/3.0.x/)
 [![Langchain Badge](https://img.shields.io/badge/%F0%9F%A6%9C%F0%9F%94%97%20langchain-fff?style=for-the-badge)](https://www.langchain.com/)
 [![Llama Index Badge](https://img.shields.io/badge/%F0%9F%A6%99%20llama_index-fff?style=for-the-badge)](https://www.llamaindex.ai/)
+[![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![BeautifulSoup](https://img.shields.io/badge/%F0%90%83%B8%20beautifulSoup-fff?style=for-the-badge)](https://www.crummy.com/software/BeautifulSoup/)
+[![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 
 <!--
 [![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)]()
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/ko/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 [![Meta](https://img.shields.io/badge/meta-0467DF?style=for-the-badge&logo=meta&logoColor=white)](https://ai.meta.com/)
 [![Openai](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 [![Google Bard Badge](https://img.shields.io/badge/Google%20Bard-886FBF?logo=googlebard&logoColor=fff&style=for-the-badge)](https://bard.google.com/chat?hl=ko)
 [![OpenCV Badge](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff&style=for-the-badge)](https://opencv.org/)
 [![YOLO Badge](https://img.shields.io/badge/YOLO-0FF?logo=yolo&logoColor=000&style=for-the-badge)](https://docs.ultralytics.com/)
 [![Weights & Biases Badge](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?logo=weightsandbiases&logoColor=000&style=for-the-badge)](https://wandb.ai/site)
-[![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
-[![BeautifulSoup](https://img.shields.io/badge/%F0%90%83%B8%20beautifulSoup-fff?style=for-the-badge)](https://www.crummy.com/software/BeautifulSoup/)
-[![Flask Badge](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=for-the-badge)](https://flask.palletsprojects.com/en/3.0.x/)
 [![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=for-the-badge)](https://jupyter.org/)
 [![Window](https://img.shields.io/badge/windows-0078D4.svg?style=for-the-badge&logo=windows&logoColor=#0078D4)](https://www.microsoft.com/ko-kr/windows)
