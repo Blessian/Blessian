@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 
 # 📚 Tech Stack
 
-[![Ubuntu Badge](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/download)
+[![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/download)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=fff)](https://aws.amazon.com/ko/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)]()
 <br>
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
@@ -46,11 +47,10 @@ Here are some ideas to get you started:
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?logo=mediapipe&logoColor=fff&style=for-the-badge)](https://ai.google.dev/edge/mediapipe/solutions/guide?hl=ko)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=for-the-badge)]()
 [![BeautifulSoup](https://img.shields.io/badge/%F0%90%83%B8%20beautifulSoup-fff?style=for-the-badge)](https://www.crummy.com/software/BeautifulSoup/)
-[![Llama Index](https://img.shields.io/badge/%F0%9F%A6%99%20llama_index-fff?style=for-the-badge)](https://www.llamaindex.ai/)
+[![LlamaIndex](https://img.shields.io/badge/%F0%9F%A6%99%20llama_index-fff?style=for-the-badge)](https://www.llamaindex.ai/)
 [![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge)]([https://www.djangoproject.com/](https://www.django-rest-framework.org/))
 [![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge)](https://kotlinlang.org/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=coffeescript&logoColor=white&style=for-the-badge)](https://www.java.com/ko/)
-[![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)]()
 [![Meta](https://img.shields.io/badge/meta-0467DF?style=for-the-badge&logo=meta&logoColor=white)](https://ai.meta.com/)
 [![Openai](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 [![Google Bard](https://img.shields.io/badge/Google%20Bard-886FBF?logo=googlebard&logoColor=fff&style=for-the-badge)](https://bard.google.com/chat?hl=ko)
